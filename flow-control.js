@@ -54,9 +54,8 @@ switch (age) {
   case 19: "You are a teenager";
     break;
   default: "You have an age";
-    
-}
-
 
 }
 
+
+}
