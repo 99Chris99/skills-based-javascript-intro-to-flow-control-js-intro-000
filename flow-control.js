@@ -43,7 +43,7 @@ switch (age) {
     break;
   case 14: "You are a teenager";
     break;
-  case 15: "You are a teenager";
+  case 15: console.log("You are a teenager");
     break;
   case 16: "You are a teenager";
     break;
