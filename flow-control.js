@@ -30,10 +30,10 @@ else if (age > 19) {
 }
 
 function ternaryTeenager(age) {
-if (age >=13 && age <= 19){
-  return "You are a teenager"
+return (age >=13 && age <= 19){
+   "You are a teenager"
   :
-  return "You are not a teenager"
+   "You are not a teenager"
 }
 }
 
